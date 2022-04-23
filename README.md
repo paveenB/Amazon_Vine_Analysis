@@ -7,25 +7,25 @@ Analyze Amazon reviews written by members of the paid Amazon Vine program and re
 ## Results
 
 * Total Paid Reviews
-* 
+ 
 ![This is an image](https://github.com/paveenB/Amazon_Vine_Analysis/blob/main/Resources/pad_total_reviews.png)
 
 * Total Unpaid Reviews
-* 
+
 ![This is an image](https://github.com/paveenB/Amazon_Vine_Analysis/blob/main/Resources/unpaid_total_reviews.png)
 
 * Total Paid 5-star Review Percentage
-* 
+
 ![This is an image](https://github.com/paveenB/Amazon_Vine_Analysis/blob/main/Resources/paid_5star_review_percentage.png)
 
 * Total Unpaid 5-star Review Percentage
-* 
+
 ![This is an image](https://github.com/paveenB/Amazon_Vine_Analysis/blob/main/Resources/unpaid_5star_review_percentage.png)
 
 * Paid 5-star Reviews
-* 
+
 ![This is an image](https://github.com/paveenB/Amazon_Vine_Analysis/blob/main/Resources/paid_5star_reviews.png)
 
 * Unpaid 5-star Reviews
-* 
+
 ![This is an image](https://github.com/paveenB/Amazon_Vine_Analysis/blob/main/Resources/unpaid_5star_reviews.png)
