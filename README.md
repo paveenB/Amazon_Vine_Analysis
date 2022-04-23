@@ -33,4 +33,4 @@ Analyze Amazon reviews written by members of the paid Amazon Vine program and re
 ## Summary
 
 In the Vine program, 51 percent of the reviews are paid for 5 star reviews and 39 percent were non-Vine reviews.  This means that we are not receiving
-quality reviews as 51 percent are paid so there is a bias in reviews.  
+quality reviews as 51 percent are paid so there is a bias in reviews.  Maybe we could create a regression to see if there is any relationships between 5 star reviews for paid and unpaid reviewers.
